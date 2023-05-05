@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=dishao123 "Follow on Twitter")
 [![Mastodon Badge](https://img.shields.io/badge/-Mastodon-6364FF?style=flat&logo=mastodon&logoColor=white)](https://acg.mn/@uxin "Follow on Mastodon")
 
-![小恐龙没了](/dino_rounded.gif "小恐龙")
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dishao123&count_private=true&theme=default&locale=cn&include_all_commits=true&show_icons=true)
+
+![小恐龙没了](/dino_rounded.gif "小恐龙")
