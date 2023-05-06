@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:azcxin@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/dishaobot "Contact on Telegram")
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=dishao123 "Follow on Twitter")
+[![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=Discord&logoColor=white)](https://discord.com/users/981545843175862323 "Contact on Discord")
 [![Mastodon Badge](https://img.shields.io/badge/-Mastodon-6364FF?style=flat&logo=mastodon&logoColor=white)](https://acg.mn/@uxin "Follow on Mastodon")
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dishao123&count_private=true&theme=default&locale=cn&include_all_commits=true&show_icons=true)
