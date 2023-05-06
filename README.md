@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:murillo_comino@hotmail.com)
 -->
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/dishao123 "Follow on Github")
+[![Github Badge](https://img.shields.io/badge/-Github-181717?style=flat&logo=Github&logoColor=white)](https://github.com/dishao123 "Follow on Github")
 [![Gitlab Badge](https://img.shields.io/badge/-Gitlab-FC6D26?style=flat&logo=Gitlab&logoColor=white)](https://gitlab.com/dishao123 "Follow on Gitlab")
 [![Codeberg Badge](https://img.shields.io/badge/-Codeberg-2185D0?style=flat&logo=Codeberg&logoColor=white)](https://codeberg.org/dishao123 "Follow on Codeberg")
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:azcxin@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/dishaobot "Contact on Telegram")
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=dishao123 "Follow on Twitter")
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:azcxin@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white)](https://t.me/dishaobot "Contact on Telegram")
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=dishao123 "Follow on Twitter")
 [![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=Discord&logoColor=white)](https://discord.com/users/981545843175862323 "Contact on Discord")
 [![Mastodon Badge](https://img.shields.io/badge/-Mastodon-6364FF?style=flat&logo=mastodon&logoColor=white)](https://acg.mn/@uxin "Follow on Mastodon")
 
