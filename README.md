@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:murillo_comino@hotmail.com)
 -->
 
-[![Hexo Badge](https://img.shields.io/badge/-Hexo-0E83CD?style=flat&logo=Hexo&logoColor=white)](https://blog.xiajun.cc "Blog")
+[![Hexo Badge](https://img.shields.io/badge/-Hexo-0E83CD?style=flat&logo=Hexo&logoColor=white)](https://blog.auz.im "Blog")
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:azcxin@gmail.com "Email")
 [![Github Badge](https://img.shields.io/badge/-Github-181717?style=flat&logo=Github&logoColor=white)](https://github.com/dishao123 "Follow on Github")
 [![Gitlab Badge](https://img.shields.io/badge/-Gitlab-FC6D26?style=flat&logo=Gitlab&logoColor=white)](https://gitlab.com/dishao123 "Follow on Gitlab")
