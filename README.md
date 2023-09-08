@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100080808605363 "Follow on Facebook")
 [![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=Discord&logoColor=white)](https://discord.com/users/981545843175862323 "Contact on Discord")
 [![Mastodon Badge](https://img.shields.io/badge/-Mastodon-6364FF?style=flat&logo=mastodon&logoColor=white)](https://acg.mn/@uxin "Follow on Mastodon")
-[![Matrix Badge](https://img.shields.io/badge/-Element-0DBD8B?style=flat&logo=element&logoColor=white)](https://matrix.to/#/@dishao:matrix.org "Contact on Matrix")
+[![Matrix Badge](https://img.shields.io/badge/-Matrix-0DBD8B?style=flat&logo=element&logoColor=white)](https://matrix.to/#/@dishao:matrix.org "Contact on Matrix")
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dishao123&count_private=true&theme=default&locale=cn&include_all_commits=true&show_icons=true)
 
