@@ -13,7 +13,7 @@
 <br/>  
 
 
-# 👋你好，我是帝少  
+## 👋你好，我是帝少  
 <div align="center">热爱编程，互联网技术。喜欢学习各类技术。</div>  
   
 <br/>
@@ -51,8 +51,3 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/dishao123/dishao123/9ac15ec785a3010287b4febd3af166d2a87f60cd/github-contribution-grid-snake.svg" align="center" style="width: 100%" />
 </div>  
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
