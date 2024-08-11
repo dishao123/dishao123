@@ -1,11 +1,9 @@
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/dishao123/dishao123/test/img/developer.gif" align="center" style="width: 100%" />
 </div>  
   
 
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/dishao123/dishao123/test/img/dino.gif" align="center" style="width: 100%" />
 </div>  
   
@@ -30,11 +28,6 @@
 ## 📊GitHub 数据统计  
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=dishao123&count_private=true&theme=default&locale=cn&include_all_commits=true&show_icons=true" align="center" style="width: 100%" />
-</div>  
-  
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/dishao123/dishao123/de23873bfd428a44e779de09079bf253d912218a/github-metrics.svg" align="center" style="width: 100%" />
 </div>  
   
 
