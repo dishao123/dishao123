@@ -13,7 +13,7 @@
 
 ## 👋你好，我是帝少  
 
-<img align="right" width="80" src="https://avatars.githubusercontent.com/u/58305876?v=4"/>
+<img align="right" width="75" src="https://avatars.githubusercontent.com/u/58305876?v=4"/>
 
 <div align="center">热爱编程，互联网技术。喜欢学习各类技术。</div>  
   
