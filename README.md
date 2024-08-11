@@ -12,11 +12,14 @@
 
 
 ## 👋你好，我是帝少  
+
+<img align="right" width="88" src="https://avatars.githubusercontent.com/u/58305876?v=4"/>
+
 <div align="center">热爱编程，互联网技术。喜欢学习各类技术。</div>  
   
 <br/>
 
-<div align="center">我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</div>  
+**<div align="center">我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系.</div>**
   
 
 **<div align="center">We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</div>**  
