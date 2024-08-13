@@ -1,15 +1,11 @@
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&center=true&random=true&width=435&lines=print(%22Hello+World%22);%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%E5%B8%9D%E5%B0%91" align="center" style="width: 100%"/>
+![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2505&pause=1500&center=true&random=true&width=435&lines=print(%22Hello+World%22);%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%E5%B8%9D%E5%B0%91)
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/dishao123/dishao123/test/img/developer.gif" align="center" style="width: 100%" />
-</div>  
+
+![](https://raw.githubusercontent.com/dishao123/dishao123/test/img/developer.gif)
   
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/dishao123/dishao123/test/img/dino.gif" align="center" style="width: 100%" />
-</div>  
-  
+![](https://raw.githubusercontent.com/dishao123/dishao123/test/img/dino.gif)
+
 
 <br/>  
 
@@ -24,6 +20,7 @@
 
 
 ## 📊GitHub 数据统计  
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=dishao123&count_private=true&theme=default&locale=cn&include_all_commits=true&show_icons=true" align="center" style="width: 100%" />
 </div>  
