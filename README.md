@@ -18,9 +18,6 @@
 **<div align="center">我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系.</div>**
 
 
-<br/>
-
-
 **<div align="center">We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</div>** 
   
 
