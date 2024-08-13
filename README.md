@@ -50,9 +50,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dishao123&count_private=true&theme=default&locale=cn&include_all_commits=true&show_icons=true"/>
 </picture>
   
-<div>
-  <img src="https://streak-stats.demolab.com?user=dishao123&theme=transparent&locale=zh_Hans&date_format=%5BY.%5Dn.j"/>
-</div>  
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=dishao123&locale=zh_Hans&date_format=%5BY.%5Dn.j&sideNums=4F94EF&currStreakNum=4F94EF&sideLabels=4F94EF&dates=000000&currStreakLabel=4F94EF&ring=4F94EF&fire=4F94EF"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=dishao123&theme=github-dark-dimmed&locale=zh_Hans&date_format=%5BY.%5Dn.j&sideNums=4B89D5&currStreakNum=4B89D5&sideLabels=4B89D5&dates=FFFFFF&currStreakLabel=4B89D5&ring=4B89D5&fire=4B89D5&stroke=E2E2E2"/>
+  <img src="https://streak-stats.demolab.com/?user=dishao123&locale=zh_Hans&date_format=%5BY.%5Dn.j&sideNums=4F94EF&currStreakNum=4F94EF&sideLabels=4F94EF&dates=000000&currStreakLabel=4F94EF&ring=4F94EF&fire=4F94EF"/>
+</picture>  
   
 <div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dishao123&theme=tokyo-night"/>
