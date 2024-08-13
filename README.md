@@ -52,7 +52,7 @@
   
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=dishao123&locale=zh_Hans&date_format=%5BY.%5Dn.j&sideNums=434D58&currStreakNum=434D58&sideLabels=4F94EF&dates=434D58&currStreakLabel=4F94EF&ring=4F94EF&fire=4F94EF"/>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=dishao123&theme=github-dark-dimmed&locale=zh_Hans&date_format=%5BY.%5Dn.j&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=4B89D5&dates=FFFFFF&currStreakLabel=4B89D5&ring=4B89D5&fire=4B89D5&stroke=E2E2E2"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=dishao123&theme=github-dark-dimmed&locale=zh_Hans&date_format=%5BY.%5Dn.j&sideNums=ADBAC7&currStreakNum=ADBAC7&sideLabels=4B89D5&dates=ADBAC7&currStreakLabel=4B89D5&ring=4B89D5&fire=4B89D5&stroke=E2E2E2"/>
   <img src="https://streak-stats.demolab.com/?user=dishao123&locale=zh_Hans&date_format=%5BY.%5Dn.j&sideNums=434D58&currStreakNum=434D58&sideLabels=4F94EF&dates=434D58&currStreakLabel=4F94EF&ring=4F94EF&fire=4F94EF"/>
 </picture>  
   
