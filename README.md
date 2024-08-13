@@ -1,4 +1,7 @@
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&center=true&random=true&width=435&lines=print(%22Hello+World%22);%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%E5%B8%9D%E5%B0%91" align="center" style="width: 100%"/>
+
+<div align="center">
 <img src="https://raw.githubusercontent.com/dishao123/dishao123/test/img/developer.gif" align="center" style="width: 100%" />
 </div>  
   
@@ -10,14 +13,6 @@
 
 <br/>  
 
-
-## 👋你好，我是帝少  
-
-<img align="right" width="75" src="https://avatars.githubusercontent.com/u/58305876?v=4"/>
-
-<div align="center">热爱编程，互联网技术。喜欢学习各类技术。</div>  
-  
-<br/>
 
 **<div align="center">我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系.</div>**
   
