@@ -24,10 +24,7 @@
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/dishao123/dishao123/test/img/hr.gif" align="center" style="width: 100%" />
-</div>
-
-
-<br/>  
+</div>  
 
 
 ## 📊GitHub 数据统计  
