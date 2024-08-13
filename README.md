@@ -12,10 +12,7 @@
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/dishao123/dishao123/test/img/dino.gif" align="center" style="width: 100%"/>
-</div> 
-
-
-<br/>  
+</div>  
 
 
 **<div align="center">我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系.</div>**
