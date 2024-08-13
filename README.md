@@ -48,6 +48,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=dishao123&count_private=true&theme=default&locale=cn&include_all_commits=true&show_icons=true"/>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dishao123&count_private=true&theme=github_dark_dimmed&locale=cn&include_all_commits=true&show_icons=true"/>
   <img src="https://github-readme-stats.vercel.app/api?username=dishao123&count_private=true&theme=default&locale=cn&include_all_commits=true&show_icons=true"/>
+</picture>
   
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=dishao123&locale=zh_Hans&date_format=%5BY.%5Dn.j&sideNums=434D58&currStreakNum=434D58&sideLabels=4F94EF&dates=434D58&currStreakLabel=4F94EF&ring=4F94EF&fire=4F94EF"/>
