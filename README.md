@@ -9,11 +9,10 @@
 <div align="center">
 
 <!-- 动态打字效果 -->
+
 <div>
-  <a href="https://blog.xv.gs/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&center=true&width=435&lines=print(%22Hello+World%22);你好，我是帝少"/>
-  </a>
-</div> 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&center=true&width=435&lines=print(%22Hello+World%22);你好，我是帝少"/>
+</div>
 
 <!-- 程序员 -->
 <picture>
@@ -32,6 +31,16 @@
 
 <p><strong>我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系.</strong></p>
 <p><strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:murillo_comino@hotmail.com)
+[![Github Badge](https://img.shields.io/badge/-Github-181717?style=flat&logo=Github&logoColor=white)](https://github.com/dishao123 "Follow on Github")
+[![Gitlab Badge](https://img.shields.io/badge/-Gitlab-FC6D26?style=flat&logo=Gitlab&logoColor=white)](https://gitlab.com/dishao123 "Follow on Gitlab")
+[![Codeberg Badge](https://img.shields.io/badge/-Codeberg-2185D0?style=flat&logo=Codeberg&logoColor=white)](https://codeberg.org/dishao123 "Follow on Codeberg")
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white)](https://t.me/dishao_bot "Contact on Telegram")
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=dishao123 "Follow on Twitter")
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100080808605363 "Follow on Facebook")
+[![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=Discord&logoColor=white)](https://discord.com/users/981545843175862323 "Contact on Discord")
+[![Mastodon Badge](https://img.shields.io/badge/-Mastodon-6364FF?style=flat&logo=mastodon&logoColor=white)](https://acg.mn/@dishao "Follow on Mastodon")
 
 </div>
 
