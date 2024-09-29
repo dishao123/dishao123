@@ -1,5 +1,10 @@
 # 👋Hi there
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=dishao123&style=flat&label=Views"/>
+<img src="https://badges.pufler.dev/visits/dishao123/dishao123?style=flat"/>
+</div>
+
 <!-- 彩红分割线 -->
 <img width="200%" src="https://raw.githubusercontent.com/dishao123/dishao123/test/img/hr.gif"/>
 
