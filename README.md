@@ -51,7 +51,7 @@
 <img width="200%" src="https://raw.githubusercontent.com/dishao123/dishao123/test/img/hr.gif"/>  
 
 
-## 📊GitHub 数据统计  
+## 📊数据展示  
 
 <div align="center">
 
