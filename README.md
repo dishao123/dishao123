@@ -48,11 +48,7 @@
 ![Follow Badge](https://img.shields.io/github/followers/dishao123?label=Follow)
 ![Star Badge](https://img.shields.io/github/stars/dishao123/rules_script?label=Star)
 
-
-
-
 </div>
-
 
 <!-- 彩红分割线 -->
 <img width="200%" src="https://raw.githubusercontent.com/dishao123/dishao123/test/img/hr.gif"/>  
