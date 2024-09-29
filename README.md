@@ -45,7 +45,10 @@
 [![Mastodon Badge](https://img.shields.io/badge/-Mastodon-6364FF?style=flat&logo=mastodon&logoColor=white)](https://acg.mn/@dishao "Follow on Mastodon")  
 ![Views Badge](https://komarev.com/ghpvc/?username=dishao123&style=flat&label=Views)
 ![Visits Badge](https://badges.pufler.dev/visits/dishao123/dishao123?style=flat)
-![Follow Badge](https://img.shields.io/github/followers/dishao123?style=flat&label=Follow)
+![Follow Badge](https://img.shields.io/github/followers/dishao123?label=Follow)
+![Star Badge](https://img.shields.io/github/stars/dishao123/rules_script?label=Star)
+
+
 
 
 </div>
