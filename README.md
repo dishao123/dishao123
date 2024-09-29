@@ -1,10 +1,5 @@
 # 👋Hi there
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=dishao123&style=flat&label=Views"/>
-<img src="https://badges.pufler.dev/visits/dishao123/dishao123?style=flat"/>
-</div>
-
 <!-- 彩红分割线 -->
 <img width="200%" src="https://raw.githubusercontent.com/dishao123/dishao123/test/img/hr.gif"/>
 
@@ -47,7 +42,11 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=X&logoColor=white)](https://twitter.com/intent/follow?screen_name=dishao123 "Follow on Twitter")
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100080808605363 "Follow on Facebook")
 [![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=Discord&logoColor=white)](https://discord.com/users/981545843175862323 "Contact on Discord")
-[![Mastodon Badge](https://img.shields.io/badge/-Mastodon-6364FF?style=flat&logo=mastodon&logoColor=white)](https://acg.mn/@dishao "Follow on Mastodon")
+[![Mastodon Badge](https://img.shields.io/badge/-Mastodon-6364FF?style=flat&logo=mastodon&logoColor=white)](https://acg.mn/@dishao "Follow on Mastodon")  
+![Views Badge](https://komarev.com/ghpvc/?username=dishao123&style=flat&label=Views)
+![Visits Badge](https://badges.pufler.dev/visits/dishao123/dishao123?style=flat)
+![Follow Badge](https://img.shields.io/github/followers/dishao123?style=flat&label=Follow)
+
 
 </div>
 
