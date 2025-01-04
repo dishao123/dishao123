@@ -1,0 +1,26 @@
+name: This repo has x stars y forks
+
+on:
+  push:
+    branches:
+      - master
+      - main
+  fork:
+  watch:
+    types:
+      - started
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    environment:
+      name: production
+    steps:
+      - name: This repo has x stars y forks
+        uses: ouuan/This-repo-has-x-stars-y-forks-action@v3
+        with:
+          token: ${{ secrets.STAR_FORK_TOKEN }}
+          template: "🤖 dishao123's profile README with <starCount> stars and <forkCount> forks 🌟"
